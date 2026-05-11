@@ -53,3 +53,12 @@ git add or git add .
 
 git commit -m "message" [-m suppresses the opening of an editor and commits the .......... added files under the message]
 
+git pull
+
+
+git checkout -b branch_name [-b means new branch]
+
+git switch branch_name
+
+git pull origin/main branch_name
+
