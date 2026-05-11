@@ -48,3 +48,8 @@ git status ---- print the status of the currently active branch
 git remote -v
 
 git branch -rv
+
+git add or git add .
+
+git commit -m "message" [-m suppresses the opening of an editor and commits the .......... added files under the message]
+
